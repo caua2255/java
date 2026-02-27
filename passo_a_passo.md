@@ -60,6 +60,8 @@ git remote add origin https://github.com/caua2255/POO_Java.git
 Limpar os dados do Git dentro do VScode:
 git config --global --unset-all user.name
 
+time zone brasilia UTC/GTM−3
+
 -------------
 ATUALIZAR REPOSITÓRIO GIT/GITHUB
 git add .
