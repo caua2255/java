@@ -46,7 +46,7 @@ public class Main {
             System.out.print("É permitido utilizar o tobogã.");
         }
         else{
-            System.out.print("Peso inválido..");
+            System.out.print("Peso inválido...");
         }
     }
 }
