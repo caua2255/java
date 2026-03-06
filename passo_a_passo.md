@@ -67,5 +67,5 @@ ATUALIZAR REPOSITÓRIO GIT/GITHUB
 - git add .
 - git commit -m "Mais um ponto"
 - git branch -M main
-git push
+- git push
 
